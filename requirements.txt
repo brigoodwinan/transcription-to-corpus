@@ -1,0 +1,7 @@
+python-dotenv
+ipykernel
+jupyter
+jupyterlab
+pandas
+pydub
+openai
