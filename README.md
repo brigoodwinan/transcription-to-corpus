@@ -1,6 +1,6 @@
 # Purpose
 
-This repo contains scripts and tools for data preparation and postprocessing for audio transcription or translation tasks using openAI APIs.
+This repo contains scripts and tools for data preparation and postprocessing for audio transcription or translation tasks using openAI APIs. The result of this pipeline is a single text file of possibly many transcriptions that can act as a corpus for _context_ when using Chat GPT.
 
 # Running Scripts individually
 
